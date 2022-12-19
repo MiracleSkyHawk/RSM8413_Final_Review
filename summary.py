@@ -1,4 +1,5 @@
 # https://docs.google.com/document/d/12FRFEYpchiGuSa2VQbrbnSMRAATVPT0bgSE_YblraxY/edit
+# https://github.com/MiracleSkyHawk/RSM8413_FGA/blob/main/RSM8413_FGA_Final.ipynb
 
 # Libraries and packages
 import pandas as pd
